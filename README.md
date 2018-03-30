@@ -19,7 +19,7 @@
 16. What does “favor object composition over class inheritance” mean?
 17. What are the pros and cons of monolithic vs microservice architectures?
 18. What is asynchronous programming, and why is it important in JavaScript?
-19. What is a Promise?
+19. What is a Promise in Javascript?
 
 ## exercises
 1. What is being console.logged in the console?
