@@ -20,6 +20,7 @@
 17. What are the pros and cons of monolithic vs microservice architectures?
 18. What is asynchronous programming, and why is it important in JavaScript?
 19. What is a Promise in Javascript?
+20. What is a lambda function in Javascript?
 
 ## exercises
 1. What is being console.logged in the console?
@@ -60,6 +61,9 @@ console.log('console.log("after 2000");');
 
 ## questions
 1. Is Typescript a typed language?
+2. What is an Interface in TypeScript?
+3. Can a Typescript class implement multiple interfaces?
+
 
 
 
