@@ -59,10 +59,10 @@ console.log('console.log("after 2000");');
 # typescript
 ## questions
 1. What is Typescript?
-2. Is Typescript a typed language?
+2. Is TypeScript a typed language?
 3. What is an Interface in TypeScript?
-4. Can a Typescript class implement multiple interfaces?
-5. Does Typescript have annotaions?
+4. Can a TypeScript class implement multiple interfaces?
+5. Does TypeScript have annotaions?
 
 ## excercises
 1. Create a `Person` class with getters and setters for the following parameters: `name`, `age`, `email`.
@@ -90,6 +90,7 @@ console.log('console.log("after 2000");');
 1. What is CSS?
 2. What are the known selectors usually used by CSS?
 3. What is SASS/LESS? What would be the purpose of using SASS/LESS?
+4. How can you add CSS in a HTML page?
 
 ## exercises
 1. Select all `div` elements having the `.default` class and make the background colored with `#cccccc`;
