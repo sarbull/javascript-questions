@@ -1,25 +1,25 @@
 # javascript
 ## questions
-1. What is Javascript?
-2. What is Javascript Hoisting?
-3. What is Javascript Closure? Give an example and explain what you can achieve by writing closures.
-4. Is Javascript multi-thread? Please explain.
+1. What is JavaScript?
+2. What is JavaScript Hoisting?
+3. What is JavaScript Closure? Give an example and explain what you can achieve by writing closures.
+4. Is JavaScript multi-thread? Please explain.
 5. What are Web Workers? Give an example on how they can be used.
 6. What is a Websocket? Give an example for a problem that it can solve.
-7. Is Javascript a typed language?
-8. What is the Javascript Prototype mechanism? Give an example on how it can be used.
-9. What is the difference between '==' and '===' in javascript?
-10. Implement an `add` function using closure(e.g. `add(1)(2)`).
-11. What is an arrow function, what is the most specific thing to say about it?
-12. What default data types does the plain Javascript have?
-13. Name two programming paradigms important for JavaScript?
-14. What is a pure function?
-15. What are the pros and cons of functional programming vs object-oriented programming?
-16. What does “favor object composition over class inheritance” mean?
-17. What are the pros and cons of monolithic vs microservice architectures?
-18. What is asynchronous programming, and why is it important in JavaScript?
-19. What is a Promise in Javascript?
-20. What is a lambda function in Javascript?
+7. Is JavaScript a typed language?
+8. What is the JavaScript Prototype mechanism? Give an example on how it can be used.
+9. What is the difference between '==' and '===' in JavaScript?
+10. What is an arrow function, what is the most specific thing to say about it?
+11. What default data types does the plain JavaScript have?
+12. Name two programming paradigms important for JavaScript?
+13. What is a pure function?
+14. What are the pros and cons of functional programming vs object-oriented programming?
+15. What does “favor object composition over class inheritance” mean?
+16. What are the pros and cons of monolithic vs microservice architectures?
+17. What is asynchronous programming, and why is it important in JavaScript?
+18. What is a Promise in JavaScript?
+19. What is a lambda function in JavaScript?
+20. How can you create modules in JavaScript?
 
 ## exercises
 1. What is being console.logged in the console?
@@ -55,6 +55,8 @@ setTimeout(function() {
 
 console.log('console.log("after 2000");');
 ```
+3. Implement an `add` function using closure(e.g. `add(1)(2)`).
+4. Select a `div` element with an `id="myDiv"` using plain JavaScript.
 
 # typescript
 ## questions
@@ -71,9 +73,11 @@ console.log('console.log("after 2000");');
 ## questions
 1. What is HTML5?
 2. What new tag elements were added in HTML5?
-3. How can you tell what HTML versions is beind used in a webpage?
+3. How can you tell what HTML version is beind used in a webpage?
 4. What do you understand by normalized HTML?
 5. What is the difference between a `<div>Lorem ipsum dolor.</div>`, a `<p>Lorem ipsum dolor.</p>` and a `<span>Lorem ipsum dolor.</span>`.
+6. What do you know about the DOM structure?
+7. What is the difference between the initial HTML code and the DOM.
 
 ## exercises
 1. Write a paragraph tag with 'Lorem ipsum dolor.'.
@@ -91,9 +95,12 @@ console.log('console.log("after 2000");');
 2. What are the known selectors usually used by CSS?
 3. What is SASS/LESS? What would be the purpose of using SASS/LESS?
 4. How can you add CSS in a HTML page?
+5. What is the difference between `padding` and `margin`?
+6. Explain the `overflow` property in a CSS selector and how it can be used.
 
 ## exercises
 1. Select all `div` elements having the `.default` class and make the background colored with `#cccccc`;
+2. Change the font in a HTML page.
 
 # HTTP
 # questions
@@ -102,6 +109,3 @@ console.log('console.log("after 2000");');
 3. What are the differences between GET and POST requests?
 4. What is the REST convention?
 5. Can you upload files via a GET request?
-
-
-
