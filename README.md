@@ -85,6 +85,7 @@ let moduleA = {
 
 let initModuleA = moduleA.init;
 
+moduleA.init();
 initModuleA();
 ```
 
