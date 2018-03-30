@@ -36,17 +36,23 @@ var a = function() {
 ```
 2. What is being console.logged in the console?
 ```js
-setTimeout(function() => {
-  console.log('setTimeout(500)');
+setTimeout(function() {
+  console.log('setTimeout(500);');
 }, 500);
 
-setTimeout(function() => {
-  console.log('setTimeout(0)');
+console.log('console.log("after 500");');
+
+setTimeout(function() {
+  console.log('setTimeout(0);');
 }, 0);
 
-setTimeout(function() => {
-  console.log('setTimeout(2000)');
+console.log('console.log("after 0");');
+
+setTimeout(function() {
+  console.log('setTimeout(2000);');
 }, 2000);
+
+console.log('console.log("after 2000");');
 ```
 
 # typescript
