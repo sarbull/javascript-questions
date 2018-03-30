@@ -1,5 +1,4 @@
 # javascript
-
 ## questions
 1. What is Javascript?
 2. What is Javascript Hoisting?
@@ -58,12 +57,43 @@ console.log('console.log("after 2000");');
 ```
 
 # typescript
-
 ## questions
-1. Is Typescript a typed language?
-2. What is an Interface in TypeScript?
-3. Can a Typescript class implement multiple interfaces?
+1. What is Typescript?
+2. Is Typescript a typed language?
+3. What is an Interface in TypeScript?
+4. Can a Typescript class implement multiple interfaces?
 
+# html
+## questions
+1. What is HTML5?
+2. What new tag elements were added in HTML5?
+3. How can you tell what HTML versions is beind used in a webpage?
+4. What do you understand by normalized HTML?
+5. What is the difference between a `<div>Lorem ipsum dolor.</div>`, a `<p>Lorem ipsum dolor.</p>` and a `<span>Lorem ipsum dolor.</span>`.
+
+## exercises
+1. Write a paragraph tag with 'Lorem ipsum dolor.'.
+2. Is the following HTML valid?
+```html
+<h1>
+  <div>Hello world</div>
+</h1>
+```
+3. What is the default structure of a HTML page?
+
+# css
+## questions
+1. What is CSS?
+2. What are the known selectors usually used by CSS?
+3. What is SASS/LESS? What would be the purpose of using SASS/LESS?
+
+## exercises
+1. Select all `div` elements having the `.default` class and make the background colored with `#cccccc`;
+
+# HTTP
+# questions
+1. What is HTTP?
+2. Define `Request` and `Response` and what data they contain.
 
 
 
