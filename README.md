@@ -57,6 +57,36 @@ console.log('console.log("after 2000");');
 ```
 3. Implement an `add` function using closure(e.g. `add(1)(2)`).
 4. Select a `div` element with an `id="myDiv"` using plain JavaScript.
+5. What is being console.logged in the console?
+```js
+function isTrue (data) {
+  if (data == { value: true }) {
+    console.log('true');
+  } else {
+    console.log('false');
+  }
+}
+isTrue({ data: true })
+```
+6. What is being console.logged in the console?
+```js
+for (var i = 0; i < 4; i++) {
+  setTimeout(() => console.log(i), 0);
+}
+```
+7. What is being console.logged in the console?
+```js
+let moduleA = {
+  moduleName: 'Module A',
+  init() {
+    console.log('init ' + this.moduleName);
+  }
+}
+
+let initModuleA = moduleA.init;
+
+initModuleA();
+```
 
 # typescript
 ## questions
