@@ -1,5 +1,5 @@
-# javascript
-## questions
+## javascript
+### questions
 1. What is JavaScript?
 2. What is JavaScript Hoisting?
 3. What is JavaScript Closure? Give an example and explain what you can achieve by writing closures.
@@ -21,7 +21,7 @@
 19. What is a lambda function in JavaScript?
 20. How can you create modules in JavaScript?
 
-## exercises
+### exercises
 1. What is being console.logged in the console?
 ```js
 b();
@@ -91,19 +91,19 @@ initModuleA();
 8. How can i implement my own `.toCapitalLetterMethod()` on the global `String` object?
 9. How can i implement my own `.sortMethod()` on the global `Array` object?
 
-# typescript
-## questions
+## typescript
+### questions
 1. What is Typescript?
 2. Is TypeScript a typed language?
 3. What is an Interface in TypeScript?
 4. Can a TypeScript class implement multiple interfaces?
 5. Does TypeScript have annotaions?
 
-## excercises
+### excercises
 1. Create a `Person` class with getters and setters for the following parameters: `name`, `age`, `email`.
 
-# html
-## questions
+## html
+### questions
 1. What is HTML5?
 2. What new tag elements were added in HTML5?
 3. How can you tell what HTML version is beind used in a webpage?
@@ -112,7 +112,7 @@ initModuleA();
 6. What do you know about the DOM structure?
 7. What is the difference between the initial HTML code and the DOM.
 
-## exercises
+### exercises
 1. Write a paragraph tag with 'Lorem ipsum dolor.'.
 2. Is the following HTML valid?
 ```html
@@ -122,8 +122,8 @@ initModuleA();
 ```
 3. What is the default structure of a HTML page?
 
-# css
-## questions
+## css
+### questions
 1. What is CSS?
 2. What are the known selectors usually used by CSS?
 3. What is SASS/LESS? What would be the purpose of using SASS/LESS?
@@ -131,12 +131,12 @@ initModuleA();
 5. What is the difference between `padding` and `margin`?
 6. Explain the `overflow` property in a CSS selector and how it can be used.
 
-## exercises
+### exercises
 1. Select all `div` elements having the `.default` class and make the background colored with `#cccccc`;
 2. Change the font in a HTML page.
 
-# HTTP
-## questions
+## HTTP
+### questions
 1. What is HTTP?
 2. Define `Request` and `Response` and what data they contain.
 3. What are the differences between GET and POST requests?
