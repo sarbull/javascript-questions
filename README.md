@@ -136,7 +136,7 @@ initModuleA();
 2. Change the font in a HTML page.
 
 # HTTP
-# questions
+## questions
 1. What is HTTP?
 2. Define `Request` and `Response` and what data they contain.
 3. What are the differences between GET and POST requests?
