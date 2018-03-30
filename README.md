@@ -88,6 +88,8 @@ let initModuleA = moduleA.init;
 moduleA.init();
 initModuleA();
 ```
+8. How can i implement my own `.toCapitalLetterMethod()` on the global `String` object?
+9. How can i implement my own `.sortMethod()` on the global `Array` object?
 
 # typescript
 ## questions
