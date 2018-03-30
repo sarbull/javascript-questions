@@ -62,6 +62,10 @@ console.log('console.log("after 2000");');
 2. Is Typescript a typed language?
 3. What is an Interface in TypeScript?
 4. Can a Typescript class implement multiple interfaces?
+5. Does Typescript have annotaions?
+
+## excercises
+1. Create a `Person` class with getters and setters for the following parameters: `name`, `age`, `email`.
 
 # html
 ## questions
@@ -94,6 +98,9 @@ console.log('console.log("after 2000");');
 # questions
 1. What is HTTP?
 2. Define `Request` and `Response` and what data they contain.
+3. What are the differences between GET and POST requests?
+4. What is the REST convention?
+5. Can you upload files via a GET request?
 
 
 
